@@ -4,7 +4,7 @@
 
 这个工具用于实现图片的风格迁移
 
-![image-20211101202130866](https://gitee.com/zeroRains/drawing-bed/raw/master/20211101202132image-20211101202130866.png)
+![image-20211101202130866](./tmp.jpg)
 
 ## 两年前的东西了，我也不记得怎么用了
 
