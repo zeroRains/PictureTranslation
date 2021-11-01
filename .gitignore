@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+gradually
+model/vgg16-397923af.pth
+output/*.jpg
+.pptx
+.rar
